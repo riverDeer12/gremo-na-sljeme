@@ -418,7 +418,7 @@ ol {
 .hero__text h1 {
 	font-size: 110px;
 	font-family: "Rockville Solid Regular";
-	color: #2269d9;
+	color: #ffffff;
 	margin-bottom: 20px;
 	margin-top: 22px;
 }
@@ -471,7 +471,7 @@ ol {
 
 .linear__icon i {
 	font-size: 50px;
-	color: #004AAD;
+	color: #ffffff;
 }
 
 @-webkit-keyframes mymove {
@@ -1096,7 +1096,7 @@ ol {
 .footer__social h2 {
 	color: #ffffff;
 	font-weight: 700;
-	margin-bottom: 25px;
+	margin-bottom: 3px;
 }
 
 .footer__social .footer__social__links a {
@@ -1567,7 +1567,7 @@ ol {
 }
 
 .service__item.deep-bg {
-	background: #5400BC;
+	background: #01286b;
 }
 
 .service__item h4 {
@@ -2816,7 +2816,7 @@ ol {
 		position: absolute;
 		left: 0;
 		top: 90px;
-		background: #222;
+		background: #004AAD;
 		width: 100%;
 	}
 	.slicknav_menu {
